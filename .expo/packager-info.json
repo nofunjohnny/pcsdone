@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19003,
-  "expoServerPort": 19004,
-  "packagerPort": 19005,
-  "packagerPid": 92659,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 95010,
   "expoServerNgrokUrl": "https://93-79c.organizedkhaos.pcsdone.exp.direct",
   "packagerNgrokUrl": "https://packager.93-79c.organizedkhaos.pcsdone.exp.direct",
-  "ngrokPid": 92679
+  "ngrokPid": 95030
 }
