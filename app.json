@@ -9,9 +9,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
-    "icon": "./assets/icons/icon.png",
+    "icon": "./assets/icons/ikhan.png",
     "splash": {
-      "image": "./assets/icons/loading.png"
+      "image": "./assets/icons/ikhan.png"
     },
     "updates": {
       "fallbackToCacheTimeout": 0

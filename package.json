@@ -2,7 +2,7 @@
   "name": "react-native-elements-app",
   "version": "1.0.0",
   "description": "Demo app for React Native Elements UI Library",
-  "author": "Monte Thakkar",
+  "author": "John Zapata",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
